@@ -1,7 +1,6 @@
-# titulo do arquivo README
+#atividade do deive 
+Atividade sobre configuração GitHub
 
-Aqui jas as informações do arquivo de configuração
 
-
-## Sub Titulo do Arquivo README
+##md é um arquivo de index para etentedimento 
 
